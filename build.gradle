@@ -1,5 +1,5 @@
 group 'com.dolsem'
-version '1.0'
+version '0.1'
 
 apply plugin: 'java'
 apply plugin: 'maven-publish'
@@ -16,7 +16,7 @@ dependencies {
 
 jar {
     baseName = 'util'
-    version = '1.0'
+    version = '0.1'
 }
 
 publishing {

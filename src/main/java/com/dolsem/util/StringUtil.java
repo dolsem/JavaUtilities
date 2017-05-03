@@ -2,7 +2,7 @@ package com.dolsem.util;
 
 import java.util.Collections;
 
-public class StringUtil {
+public final class StringUtil {
 
     private StringUtil() {};
 

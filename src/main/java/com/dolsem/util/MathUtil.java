@@ -1,7 +1,7 @@
 package com.dolsem.util;
 
 
-public class MathUtil {
+public final class MathUtil {
 
     private MathUtil() {};
 
